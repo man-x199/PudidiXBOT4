@@ -3,9 +3,10 @@ const help = (prefix) => {
 
 ● *Status* : *Online*
 ● *Version* : *4.0*
-● *User* : *@${num.split('@')[0]}*
+● *User Name* : *${pushname}*
 ● *Groubs* : *24*
 ● *Pengguna* : *37*
+● *Prefix* : *( ${prefix} )*
 ● *Fitur* : *121*
 ● *Web Api* : *xptnbotapi.herokuapp.com*
 ● *Special Thanks To* :
